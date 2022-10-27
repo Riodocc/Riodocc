@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Md.Tanvir Hossain Anik</h1>
 <h3 align="center">I am a Computer Science student from Bangladesh 🇧🇩. I am interested in Web development, Artificial Intelligence & Deep learning & Linux & Block Chains e.</h3>
-<img align="center' alt="Coding" width= "400" height="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width= "400" height="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riodocc&label=Profile%20views&color=0e75b6&style=flat" alt="riodocc" /> </p>
 
